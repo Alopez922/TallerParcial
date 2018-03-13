@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerMovil</string>
+    <string name="zapatillas">Sneakers</string>
+    <string name="Clasico">Classic</string>
+    <string name="Nike">Nike</string>
+    <string name="Adidas">Adidas</string>
+    <string name="Puma">Puma</string>
+    <string name="hombre">Men</string>
+    <string name="Mujer">Woman</string>
+    <string name="Calcular">Calculate</string>
+    <string name="Zapatos">Shoes</string>
+    <string name="TipoZapato">" type of shoes"</string>
+    <string name="Marca">Mark</string>
+    <string name="Cantidad">Amount</string>
+</resources>

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TallerMovil</string>
+    <string name="zapatillas">Zapatillas</string>
+    <string name="Clasico">Clasicos</string>
+    <string name="Nike">Nike</string>
+    <string name="Adidas">Adidas</string>
+    <string name="Puma">Puma</string>
+    <string name="hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+    <string name="Dolares">Dolares</string>
+    <string name="Pesos">Pesos</string>
+    <string name="Moneda">Moneda</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Zapatos">Zapatos</string>
+    <string name="TipoZapato">Tipo de Zapato</string>
+    <string name="Marca">Marca</string>
+    <string name="Cantidad">Cantidad</string>;
+
+    <string-array name="items">
+        <item>@string/zapatillas</item>
+        <item>@string/Clasico</item>
+    </string-array>
+
+    <string-array name="itemsMarca">
+        <item>@string/Nike</item>
+        <item>@string/Adidas</item>
+        <item>@string/Puma</item>
+    </string-array>
+
+    <string-array name="itemsHombreMujer">
+        <item>@string/hombre</item>
+        <item>@string/Mujer</item>
+    </string-array>
+
+    <string-array name="TipoMoneda">
+        <item>@string/Dolares</item>
+        <item>@string/Pesos</item>
+    </string-array>
+
+
+
+</resources>
